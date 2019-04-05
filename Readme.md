@@ -3,7 +3,7 @@
 
 * [ListBoxDropTarget.cs](./CS/DragDropColumns/ListBoxDropTarget/ListBoxDropTarget.cs) (VB: [ListBoxDropTargetFactory.vb](./VB/DragDropColumns/ListBoxDropTarget/ListBoxDropTargetFactory.vb))
 * [ListBoxDropTargetFactory.cs](./CS/DragDropColumns/ListBoxDropTarget/ListBoxDropTargetFactory.cs) (VB: [ListBoxDropTargetFactory.vb](./VB/DragDropColumns/ListBoxDropTarget/ListBoxDropTargetFactory.vb))
-* [MainWindow.xaml](./CS/DragDropColumns/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DragDropColumns/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DragDropColumns/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DragDropColumns/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DragDropColumns/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DragDropColumns/MainWindow.xaml.vb))
 * [MyColumnChooserDropTarget.cs](./CS/DragDropColumns/MyColumnChooserDropTarget/MyColumnChooserDropTarget.cs) (VB: [MyColumnChooserDropTargetFactory.vb](./VB/DragDropColumns/MyColumnChooserDropTarget/MyColumnChooserDropTargetFactory.vb))
 * [MyColumnChooserDropTargetFactory.cs](./CS/DragDropColumns/MyColumnChooserDropTarget/MyColumnChooserDropTargetFactory.cs) (VB: [MyColumnChooserDropTargetFactory.vb](./VB/DragDropColumns/MyColumnChooserDropTarget/MyColumnChooserDropTargetFactory.vb))
