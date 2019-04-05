@@ -3,7 +3,7 @@
 
 * [DropTargets.cs](./CS/DragDropColumns/DropTargets.cs) (VB: [DropTargets.vb](./VB/DragDropColumns/DropTargets.vb))
 * **[MainWindow.xaml](./CS/DragDropColumns/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DragDropColumns/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/DragDropColumns/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DragDropColumns/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DragDropColumns/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DragDropColumns/MainWindow.xaml.vb))
 * [MyTableView.cs](./CS/DragDropColumns/MyTableView.cs) (VB: [MyTableView.vb](./VB/DragDropColumns/MyTableView.vb))
 <!-- default file list end -->
 # How to drag columns to GridControl from an external source
